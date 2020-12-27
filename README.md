@@ -2,6 +2,8 @@
 
 MEAN Employees is a simple example project that use NodeJs with Express to backend, and Angular to frontend.
 
+![MEAN-app](mean.png)
+
 ## Installation
 
 clone the repository:
@@ -17,7 +19,7 @@ npm install
 
 You can start the backend and run server go to back/ with the command:
 ```
-npm run serv
+npm run serve
 ```
 http://localhost:4000/api/employees to see your app.
 
